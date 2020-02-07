@@ -1,0 +1,11 @@
+﻿  circle.cpp
+C:\Users\Karine\Desktop\projects\vector\vector\vector\circle.cpp(8): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  geometr.cpp
+  main.cpp
+  square.cpp
+C:\Users\Karine\Desktop\projects\vector\vector\vector\square.cpp(7): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  vector.cpp
+C:\Users\Karine\Desktop\projects\vector\vector\vector\vector.cpp(67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Karine\Desktop\projects\vector\vector\vector\vector.cpp(76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  vector.vcxproj -> C:\Users\Karine\Desktop\projects\vector\vector\Debug\vector.exe
